@@ -19,7 +19,7 @@ function processMenu() {
       title: 'blockchains',
       children: blockchains,
       tag: `${blockchains.length}`,
-      icon: 'https://ping.pub/logo.svg',
+      icon: 'https://explorer-arapzz.vercel.app/logo.svg',
     })
   }
   chainMenus.push({ header: 'sponsors' })
